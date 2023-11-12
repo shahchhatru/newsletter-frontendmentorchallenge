@@ -1,0 +1,20 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+}
+
+
+html,body{
+  width:100vw;
+  height:100vh;
+  background:var(--charcoalgrey)
+}
+
+:root{
+  --tomato:hsl(4,100%,67%);
+  --darkslategrey:hsl(234,29%,20%);
+  --grey:hsl(231,7%,60%);
+  --white:hsl(0,0%,100%);
+  --charcoalgrey:hsl(235,18%,26%);
+}
